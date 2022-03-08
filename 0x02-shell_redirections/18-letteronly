@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i [abdefghijklmnopqrstuvwxyz]* /etc/ssh/sshd_config
+grep -i [abcdefghijklmnopqrstuvwxyz]* /etc/ssh/sshed_config
